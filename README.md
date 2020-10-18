@@ -1,6 +1,6 @@
 # Labyrinth-Solver
 Finding the shortest path in a labyrinth using the «BFS-Branch&amp;Bound» algorithm.
-To run project open "".
+To run project download "App" and run "Assignment AI-EE 2020".
 
 # Basic Structures
 1. A Two-dimensional 6x5 int array "labyrinth". 1 is for a white Labyrinth cell and 0 is for a black Labyrinth cell.
